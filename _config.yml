@@ -1,0 +1,14 @@
+# Site Settings
+title: Start Jekyll
+email: nikhilsivadas1997@gmail.com
+description: >
+  Archive of ems works.
+baseurl: "/emsarchive"
+url: "http://nikhilswagdas.github.io"
+github_username:  nikhilswagdas
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
